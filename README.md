@@ -8,7 +8,7 @@
 - No use of notes or previously written code
 - No collaboration or communication
 
-Nematodes, also called roundworms, are multicellular organisms that occur as parasites in animals and plants or as free-living forms in soil and water. Many species of nematodes are microscopic, however, some species such as tapeworms can grow to several meters in length. They are the most abundant lifeforms on the planet and there are over 400 quintillion individual nematodes on earth. 
+Nematodes, also called roundworms, are multicellular organisms that occur as parasites in animals and plants or as free-living forms in soil and water. Many species of nematodes are microscopic, however, some species such as tapeworms can grow to several meters in length. They are the most abundant multicellular lifeforms on the planet and there are over 400 quintillion individual nematodes on earth. 
 
 In today's lab test you will be coding elements of this Nematode simulation (click the images for videos):
 
