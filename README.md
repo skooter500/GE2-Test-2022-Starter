@@ -1,4 +1,4 @@
-# Game Engines 2 2022 - Lab Test
+# Games Engines 2 2022 - Lab Test
 
 ## Rules
 
